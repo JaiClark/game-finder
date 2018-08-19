@@ -1,1 +1,1 @@
-# game-finder
+# friend-finder
